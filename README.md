@@ -16,7 +16,7 @@ Multiple implementations of the test:
 * One communicator for all processes, everyone uses same tag to communicate with its assigned mate.
 * One communicator for all processes, each pair of processes uses a unique tag.
 
-## Author
+## Authorship
 
 * [Agustín Navarro Torres](https://github.com/SirBargus)
-* [Marcos Canales Mayo](https://github.com/MarcosCM)
+* [Marcos Canales Mayo](https://github.com/mcanalesmayo)
